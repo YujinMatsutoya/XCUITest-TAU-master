@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "FDBEBE93-1881-48DB-83F9-FCF73D39FF47",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TAU.xcodeproj",
+        "identifier" : "B0E193DA30A33FF700B6BB97",
+        "name" : "TAUUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
