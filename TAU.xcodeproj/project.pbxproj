@@ -51,7 +51,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B02C4D5B30A653080021AF62 /* sakdjfhas */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = sakdjfhas; sourceTree = "<group>"; };
 		B0E193DC30A33FF700B6BB97 /* TAUUITests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = TAUUITests; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
@@ -88,7 +87,6 @@
 				B0E193DC30A33FF700B6BB97 /* TAUUITests */,
 				9B5BC70C220F55C20047CFA4 /* TAU */,
 				9B5BC721220F55D20047CFA4 /* TAUTests */,
-				B02C4D5B30A653080021AF62 /* sakdjfhas */,
 				9B5BC70B220F55C20047CFA4 /* Products */,
 			);
 			sourceTree = "<group>";
