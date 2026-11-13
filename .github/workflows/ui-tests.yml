@@ -29,6 +29,9 @@ jobs:
       - name: Check simulator exists
         run: xcrun simctl list devices available | grep -q "iPhone 17"
 
+      - name: Boot simulator
+        run: xcrun simctl bootstatus "iPhone 17" -b
+
       - name: Run UI tests
         run: fastlane ui_tests
 
